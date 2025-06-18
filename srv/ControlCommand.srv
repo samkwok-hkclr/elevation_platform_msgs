@@ -1,0 +1,7 @@
+uint8 command
+int32 value
+
+---
+
+bool success
+string message
