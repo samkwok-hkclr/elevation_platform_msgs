@@ -4,6 +4,8 @@ uint8 can_id
 
 float32 gear_ratio
 
+float32 current_degree
+
 uint8 mode
 
 # current unit: mA
