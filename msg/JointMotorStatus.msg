@@ -1,6 +1,7 @@
 std_msgs/Header header
 
 uint8 can_id
+bool is_disconnected
 
 float32 gear_ratio
 
