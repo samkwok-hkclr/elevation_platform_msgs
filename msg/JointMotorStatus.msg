@@ -31,3 +31,21 @@ int32 board_temp
 # voltage unit: mV
 int32 encoder_voltage
 int32 encoder_status
+
+float32 max_forward_velocity
+float32 min_backward_velocity
+  
+float32 max_forward_position
+float32 min_backward_position
+
+int32 position_p
+int32 position_i
+int32 position_d
+
+int32 velocity_p
+int32 velocity_i
+int32 velocity_d
+
+int32 current_p
+int32 current_i
+int32 current_d
