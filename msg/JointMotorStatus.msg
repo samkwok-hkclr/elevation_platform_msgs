@@ -35,9 +35,12 @@ int32 encoder_status
 
 float32 max_forward_velocity
 float32 min_backward_velocity
-  
+
 float32 max_forward_position
 float32 min_backward_position
+
+float32 max_forward_current
+float32 min_backward_current
 
 int32 position_p
 int32 position_i
