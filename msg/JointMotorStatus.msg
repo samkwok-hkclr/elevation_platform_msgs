@@ -7,6 +7,8 @@ float32 gear_ratio
 
 float32 current_degree
 
+uint32 position_offset
+
 uint8 mode
 
 # current unit: mA
